@@ -53,3 +53,4 @@
 2025.03.15 cs <br>
 2025.08.01 data_structure<br>
 2025.08.05 html_css<br>
+2025.08.06 js<br>
